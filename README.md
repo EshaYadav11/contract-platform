@@ -47,6 +47,7 @@ contract-platform/
 └── public/
     └── dashboard-preview.png
 ```
+---
 
 ## 🏃‍♂️ How to Run Locally
 
