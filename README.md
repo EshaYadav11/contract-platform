@@ -53,7 +53,7 @@ contract-platform/
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/EshaYadav11/contract-platform.git](https://github.com/EshaYadav11/contract-platform.git)
+    git clone https://github.com/EshaYadav11/contract-platform.git
     cd contract-platform
     ```
 
