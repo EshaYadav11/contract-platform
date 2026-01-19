@@ -24,21 +24,22 @@ A robust, frontend-based Contract Management Platform built with **Next.js 14**,
 
 The project follows a modular, component-based architecture:
 
+```text
+contract-platform/
 ├── app/
-│   ├── blueprints/              # Blueprint creation and management routes
-│   ├── contracts/               # Contract management routes
-│   ├── layout.tsx               # Global layout (Navbar, Context Providers)
-│   └── page.tsx                 # Main Dashboard with metrics & overview
-│
+│   ├── blueprints/       # Blueprint creation routes
+│   ├── contracts/        # Contract management routes
+│   ├── layout.tsx        # Global layout (Navbar, Providers)
+│   └── page.tsx          # Main Dashboard with metrics
 ├── components/
-│   ├── ContractList.tsx         # Reusable contract grid / table component
-│   └── Navbar.tsx               # Global navigation bar
-│
+│   ├── ContractList.tsx  # Reusable grid table component
+│   └── Navbar.tsx        # Global navigation
 ├── context/
-│   └── AppContext.tsx           # Centralized application state & business logic
-│
+│   └── AppContext.tsx    # Central store for Logic & State
 ├── types/
-│   └── index.ts                 # Shared TypeScript interfaces and enums
+│   └── index.ts          # Shared TypeScript interfaces
+└── public/
+    └── dashboard-preview.png
 
 ## 🏃‍♂️ How to Run Locally
 
