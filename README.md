@@ -14,6 +14,8 @@ A robust, frontend-based Contract Management Platform built with **Next.js 14**,
 * **Smart Dashboard:** High-density grid view with status filtering and real-time metric cards.
 * **Mock Persistence:** Data is persisted locally using `localStorage` to simulate a real backend environment.
 
+---
+
 ## 🛠️ Tech Stack & Architecture
 
 * **Framework:** [Next.js 14 (App Router)](https://nextjs.org/)
