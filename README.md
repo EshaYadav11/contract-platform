@@ -40,6 +40,7 @@ contract-platform/
 │   └── index.ts          # Shared TypeScript interfaces
 └── public/
     └── dashboard-preview.png
+```
 
 ## 🏃‍♂️ How to Run Locally
 
