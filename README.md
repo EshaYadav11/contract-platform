@@ -4,6 +4,8 @@
 
 A robust, frontend-based Contract Management Platform built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. This application enables users to design contract blueprints, generate contracts from templates, and manage the full lifecycle from drafting to final signature.
 
+---
+
 ## 🚀 Key Features
 
 * **Blueprint Builder:** Create reusable contract templates with dynamic fields (Text, Date, Checkbox, Signature).
