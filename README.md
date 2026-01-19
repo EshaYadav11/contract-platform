@@ -70,6 +70,8 @@ contract-platform/
 4.  **Access the App**
     Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+---
+
 ## ⚠️ Assumptions & Design Decisions
 
 * **Data Persistence:** The app uses `localStorage`. Clearing your browser cache will reset the app state.
