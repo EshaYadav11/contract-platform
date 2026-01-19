@@ -24,6 +24,8 @@ A robust, frontend-based Contract Management Platform built with **Next.js 14**,
 * **State Management:** React Context API
     * *Decision:* Chosen over Redux to reduce boilerplate while maintaining a clean, centralized store (`AppContext`) for the contract lifecycle logic.
 
+---
+
 ## 📂 Project Structure
 
 The project follows a modular, component-based architecture:
