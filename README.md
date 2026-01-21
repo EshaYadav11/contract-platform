@@ -1,5 +1,7 @@
 # ContractFlow - Contract Management Platform
 
+**🚀 Live Demo:** [https://contract-platform-mauve.vercel.app/](https://contract-platform-mauve.vercel.app/)
+
 ![Dashboard Preview](/public/dashboard-preview.png)
 
 A robust, frontend-based Contract Management Platform built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. This application enables users to design contract blueprints, generate contracts from templates, and manage the full lifecycle from drafting to final signature.
